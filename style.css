@@ -1,0 +1,90 @@
+.header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+}
+    .nav li {
+    display:inline-block;
+    list-style-type: none;
+    padding: 19px 19px;
+}
+h2{
+    font-size: 60px;
+    color: red;
+    text-align: center;
+}
+.shopnow{
+    color: white;
+    background-color: black;
+    padding: 15px;
+    width: 150px;
+    margin-left: 45%;
+    border-radius: 30px;
+}
+.slide p{
+    text-align: center;
+    font-size: 200%;
+    color: black;
+}
+.slide {
+    background-image: url("Images/pink.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% ;    
+}
+.boutbox{
+    display: flex;
+    flex-direction: row;
+}
+.boutbox img{
+    width: 50%;
+}
+.bout{
+    text-align: center;
+}
+.bout p2{
+    font-size: 200%;
+}
+.bout h3{
+    font-size: 360%;
+    color: red;
+}
+.bout p3{
+    font-size: 200%;
+}
+.shop img{
+    width: 90%;
+}
+.shop {
+    display: flex;
+}
+#h3{
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.footer{
+    display: flex;
+    justify-content: space-between;
+}
